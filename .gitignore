@@ -1,0 +1,75 @@
+# CMake build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Visual Studio Code settings
+.vscode/
+
+# CLion/JetBrains IDEs
+.idea/
+cmake-build-*/
+
+# Eclipse
+.project
+.cproject
+.settings/
+*.launch
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Compiled binaries and objects
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Generated files
+config.h
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Go
+/bin/
+/pkg/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Others
+*.log
+*.swp
+*.swo
+*.tmp
